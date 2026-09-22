@@ -1,0 +1,3 @@
+/Users/ethanchoularton/Documents/Code/EcoSim-/build/CMakeFiles/ecosim.dir
+/Users/ethanchoularton/Documents/Code/EcoSim-/build/CMakeFiles/edit_cache.dir
+/Users/ethanchoularton/Documents/Code/EcoSim-/build/CMakeFiles/rebuild_cache.dir
